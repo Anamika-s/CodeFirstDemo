@@ -1,0 +1,15 @@
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\bin\Debug\CodeFiratApproach.exe.config
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\bin\Debug\CodeFiratApproach.exe
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\bin\Debug\CodeFiratApproach.pdb
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\bin\Debug\EntityFramework.dll
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\bin\Debug\EntityFramework.xml
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.csprojAssemblyReference.cache
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.csproj.CoreCompileInputs.cache
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.csproj.CopyComplete
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.exe
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.pdb
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.Migrations.InitialCreate.resources
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.csproj.GenerateResource.cache
+C:\Users\admivm\source\repos\CodeFiratApproach\CodeFiratApproach\obj\Debug\CodeFiratApproach.Migrations.AddedCourse.resources
